@@ -1,0 +1,9 @@
+vaadin-text-field {
+  width: 62px;
+}
+
+vaadin-text-field > label {
+  width: 62px;
+  display: inline-block;
+  text-align: center;
+}
